@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+
+  height: 500px;
+}
+
+.linkk{
+  margin: 5px 20px;
+  padding: 10px 30px;
+  color: black;
+  background-color: rgb(161, 65, 252);
+  border-radius: 5px;
+  border: none;
+  text-decoration: none;
+}
+.linkk:hover{
+  background-color: blueviolet;
+  box-shadow: 2px 2px 10px #888888 ;
+}
+.logincard{
+margin: auto;
+padding: 10px 50px 20px 50px;
+border: .2px solid rgb(155, 155, 155);
+
+border-radius: 10px;
+text-align: start;
+max-width: min-content;
+
+max-height: max-content;
+min-height: auto;
+ 
+}
+
+.inputtt{
+ 
+  height: 30px;
+  width: 100%;
+  border:1px solid black;
+  border-radius: 5px;}
+
+  .logincard:hover{
+    box-shadow: 2px 2px 10px #888888 ;
+  }
